@@ -1,0 +1,55 @@
+.fourth_block{
+    background: linear-gradient(180deg, #00D3FD 0%, #00D3FD 97.16%, #00FD65 100%);
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("/fonts/HelveticaNeue-Bold-02.ttf") format("ttf");
+    font-style: Bold;
+    font-weight: 700;
+}
+
+h3{
+    font-family: 'Helvetica';
+    color: #000;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.fourth_block_img{
+    width: 100vw;
+    height: 2740px;
+}
+
+.helmet{
+    padding-top: 531px;
+    padding-bottom: 666px;
+    align-items: center;
+    width: 100vw;
+    position: absolute;
+    margin-top: 100px;
+    top: 1px;
+}
+
+.info_label_yellow{
+    width: auto;
+    padding: 2px 35px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    background: #EAFE01;
+    color: #010101;
+    display: block;
+}
+ 
+p{
+    font-family: 'Helvetica';
+    text-transform: uppercase;
+}
+
+.helmet_img_contanir{
+    width: 100vw;
+}
+
